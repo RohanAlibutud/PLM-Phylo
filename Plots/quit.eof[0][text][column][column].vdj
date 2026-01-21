@@ -1,0 +1,8 @@
+#!vd -p
+{"sheet": null, "col": null, "row": null, "longname": "open-file", "input": "ESM_4apes_layerhead_correct", "keystrokes": "o", "comment": null}
+{"sheet": "ESM_4apes_layerhead_correct", "col": "", "row": "", "longname": "pyobj-expr", "input": "quit", "keystrokes": "Ctrl+X", "comment": "evaluate Python expression and open result as Python object"}
+{"sheet": "quit", "col": "", "row": "\u30adeof", "longname": "open-row", "input": "", "keystrokes": "Enter", "comment": "open current row with sheet-specific dive"}
+{"sheet": "quit.eof", "col": "", "row": "0", "longname": "open-row", "input": "", "keystrokes": "Enter", "comment": "open current row with sheet-specific dive"}
+{"sheet": "quit.eof[0]", "col": "", "row": "\u30adtext", "longname": "open-row", "input": "", "keystrokes": "Enter", "comment": "open current row with sheet-specific dive"}
+{"sheet": "quit.eof[0][text]", "col": "", "row": "\u30adcolumn", "longname": "open-row", "input": "", "keystrokes": "Enter", "comment": "open current row with sheet-specific dive"}
+{"sheet": "quit.eof[0][text][column]", "col": "", "row": "\u30adcolumn", "longname": "open-row", "input": "", "keystrokes": "Enter", "comment": "open current row with sheet-specific dive"}

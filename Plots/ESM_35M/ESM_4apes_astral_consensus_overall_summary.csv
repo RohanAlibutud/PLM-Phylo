@@ -1,0 +1,2 @@
+n_proteins,n_scored,correct,less_incorrect,more_incorrect,unknown,pct_correct
+20,20,13,5,2,0,65
